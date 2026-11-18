@@ -1,0 +1,1 @@
+One of typescripts fundamental is when you create a function you must always specify the types for an argument.
